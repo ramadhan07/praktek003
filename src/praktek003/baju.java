@@ -9,7 +9,7 @@ public class baju {
     double harga;
     
     void cetakinfo(){
-        system.out.println("merk \t: "+merk+"\n"+
+        System.out.println("merk \t: "+merk+"\n"+
                 "ukuran \t: "+ukuran+"\n"+
                 "warna \t: "+warna+"\n"+
                 "harga \t: "+harga);
