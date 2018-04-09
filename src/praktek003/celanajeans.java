@@ -3,18 +3,18 @@ package praktek003;
 
 
 public class celanajeans extends baju{
-    private String merkcelana;
+    private String jeniscelana;
     
     void throttle(){
         System.out.println("BELIIIIII........");
     }
 
     public String getMerkcelana() {
-        return merkcelana;
+        return jeniscelana;
     }
 
     public void setMerkcelana(String merkcelana) {
-        this.merkcelana = merkcelana;
+        this.jeniscelana = merkcelana;
     }
     
     
