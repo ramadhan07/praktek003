@@ -4,7 +4,7 @@ package praktek003;
 
 public class baju {
     String merk;
-    Integer ukuran;
+    String ukuran;
     String warna;
     double harga;
     
